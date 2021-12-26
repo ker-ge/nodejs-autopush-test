@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-autopush-test",
+  "version": "1.0.0",
+  "description": "nodejs-autopush-test",
+  "author": "ker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
